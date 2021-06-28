@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "nskBnVPHWWCLvJWH7XUmGXh7cVj9tSngCZc3TjGXApOAKTbtbjTle+/lnB6uHxxABJC2Yhw5kbPHRTQfNWWs5A==",
+  "success": true,
+  "projectFilePath": "/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Application/ProcessamentoFila.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/williammessias/.nuget/packages/confluent.kafka/1.7.0-rc4/confluent.kafka.1.7.0-rc4.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation/10.2.3/fluentvalidation.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation.aspnetcore/10.2.3/fluentvalidation.aspnetcore.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.2.3/fluentvalidation.dependencyinjectionextensions.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/librdkafka.redist/1.7.0-rc4/librdkafka.redist.1.7.0-rc4.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

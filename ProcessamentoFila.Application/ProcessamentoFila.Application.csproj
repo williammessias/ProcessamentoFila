@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interfaces\" />
+    <None Remove="Interfaces\Services\" />
+    <None Remove="Services\" />
+    <None Remove="Services\v1\" />
+    <None Remove="Confluent.Kafka" />
+    <None Remove="Microsoft.Extensions.Configuration.Json" />
+    <None Remove="Newtonsoft.Json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\v1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProcessamentoFila.Domain\ProcessamentoFila.Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="1.7.0-RC4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+</Project>

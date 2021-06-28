@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ClWk9NoUOyrkKhawVeoUxAV1Rv97Ry3VpMrmKGaU9ti6UGUzFNYY71xPg9rUPX6L+Fxq+/hub+OfwmaVYzAR7Q==",
+  "success": true,
+  "projectFilePath": "/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/ProcessamentoFila.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/williammessias/.nuget/packages/fluentvalidation/10.2.3/fluentvalidation.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation.aspnetcore/10.2.3/fluentvalidation.aspnetcore.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.2.3/fluentvalidation.dependencyinjectionextensions.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

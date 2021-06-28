@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEqprR188i20nkYepQ7SZw+AMBm3WSwoZBGBVhu+OALq3L4czkV+v5GG0eQA5m3sXgvNnNDnF9urPlTFaofG9w==",
+  "success": true,
+  "projectFilePath": "/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Data/ProcessamentoFila.Data.csproj",
+  "expectedPackageFiles": [
+    "/Users/williammessias/.nuget/packages/confluent.kafka/1.7.0/confluent.kafka.1.7.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation/10.2.3/fluentvalidation.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation.aspnetcore/10.2.3/fluentvalidation.aspnetcore.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.2.3/fluentvalidation.dependencyinjectionextensions.10.2.3.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/librdkafka.redist/1.7.0/librdkafka.redist.1.7.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/williammessias/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

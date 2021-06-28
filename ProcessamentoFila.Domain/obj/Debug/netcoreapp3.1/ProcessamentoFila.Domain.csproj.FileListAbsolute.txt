@@ -1,0 +1,16 @@
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/bin/Debug/netcoreapp3.1/ProcessamentoFila.Domain.deps.json
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/bin/Debug/netcoreapp3.1/ProcessamentoFila.Domain.dll
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/bin/Debug/netcoreapp3.1/ProcessamentoFila.Domain.pdb
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.AssemblyInfoInputs.cache
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.AssemblyInfo.cs
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.csproj.CoreCompileInputs.cache
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.dll
+/Users/williammessias/Projects/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.pdb
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/bin/Debug/netcoreapp3.1/ProcessamentoFila.Domain.deps.json
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/bin/Debug/netcoreapp3.1/ProcessamentoFila.Domain.dll
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/bin/Debug/netcoreapp3.1/ProcessamentoFila.Domain.pdb
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.AssemblyInfoInputs.cache
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.AssemblyInfo.cs
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.csproj.CoreCompileInputs.cache
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.dll
+/Users/williammessias/Documents/DEV/ProcessamentoFila/ProcessamentoFila.Domain/obj/Debug/netcoreapp3.1/ProcessamentoFila.Domain.pdb

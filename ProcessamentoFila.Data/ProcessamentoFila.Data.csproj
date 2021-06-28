@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Confluent.Kafka" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="1.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProcessamentoFila.Domain\ProcessamentoFila.Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
